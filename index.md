@@ -4,3 +4,8 @@
 
 
 ![Image](https://unsplash.com/photos/a-man-standing-in-a-tent-looking-out-into-the-distance-EbIvcXzgU4s)
+
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
